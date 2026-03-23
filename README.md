@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hello! 
 
 ### About Me
 
@@ -11,7 +11,7 @@ I am passionate about turning raw data into meaningful insights — from explora
 
 ---
 
-### What I Know 🧠
+### What I Know 
 
 **Programming & Databases**  
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
