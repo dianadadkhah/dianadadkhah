@@ -1,4 +1,4 @@
-# Hello! 
+# Hello! 👋
 
 ### About Me
 
@@ -11,7 +11,7 @@ I am passionate about turning raw data into meaningful insights — from explora
 
 ---
 
-### What I Know 
+### What I Know 🧠
 
 **Programming & Databases**  
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
@@ -35,13 +35,13 @@ I am passionate about turning raw data into meaningful insights — from explora
 
 ---
 
-### Featured Projects 
+### Featured Projects 🚀
 
-- **[Personal Portfolio](https://github.com/dianadadkhah/dianadadkhah.github.io)** — A Quarto-powered personal website showcasing my projects, background, and data science journey. Live at [dianadadkhah.github.io](https://dianadadkhah.github.io).
+- **[Crime Dashboard](https://github.com/dianadadkhah/DSCI-532_2026_38_crime-dashboard)** — An interactive Shiny for Python dashboard visualizing North American crime trends (1975–2015). Features a geocoded Altair choropleth map, temporal trend analysis, and automated data pipelines.
 
-- **[DSCI-522 Data Science Workflows](https://github.com/dianadadkhah/DSCI-522)** — Course project from UBC MDS DSCI 522 covering reproducible data analysis workflows, automation, and best practices in data science project structure.
+- **[National Canadian Medical Datathon 2026](https://github.com/dianadadkhah/National_Canadian_Medical_Datathon_2026)** — Multimodal machine learning project for a national medical datathon. End-to-end pipeline combining clinical data and digital pathology for predictive modelling.
 
-- **[Individual DSCI-522 Analysis](https://github.com/dianadadkhah/individual-assignment-DSCI-522)** — Individual assignment applying end-to-end data science workflows including data wrangling, exploratory analysis, and modelling using Python.
+- **[Apartment High Rent Predictor](https://github.com/dianadadkhah/Apartment-High-Rent-Predictor)** — A machine learning model predicting high-rent apartments. Includes data wrangling, feature engineering, and model evaluation.
 
 ---
 
