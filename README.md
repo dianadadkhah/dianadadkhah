@@ -45,7 +45,7 @@ I am passionate about turning raw data into meaningful insights — from explora
 
 ---
 
-### Stats 📊
+### Stats 
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dianadadkhah&bg_color=F4F4F5&color=5A88A4&line=5A88A4&point=FFFFFF&area=true&hide_border=true)](https://github.com/dianadadkhah)
 
