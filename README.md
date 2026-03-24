@@ -35,7 +35,7 @@ I am passionate about turning raw data into meaningful insights — from explora
 
 ---
 
-### Featured Projects 🚀
+### Featured Projects 
 
 - **[Crime Dashboard](https://github.com/dianadadkhah/DSCI-532_2026_38_crime-dashboard)** — An interactive Shiny for Python dashboard visualizing North American crime trends (1975–2015). Features a geocoded Altair choropleth map, temporal trend analysis, and automated data pipelines.
 
